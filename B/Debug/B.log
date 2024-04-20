@@ -1,0 +1,14 @@
+﻿Build started 3/27/2021 3:41:58 PM.
+     1>Project "E:\JungleRun\B\B.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\visual studio r\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt iMain.cpp
+         iMain.cpp
+     1>e:\junglerun\b\imain.cpp(88): warning C4715: 'validPoint' : not all control paths return a value
+       Link:
+         E:\visual studio r\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\JungleRun\Debug\B.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\JungleRun\Debug\B.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\JungleRun\Debug\B.lib" /MACHINE:X86 Debug\iMain.obj
+         B.vcxproj -> E:\JungleRun\Debug\B.exe
+     1>Done Building Project "E:\JungleRun\B\B.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.93
